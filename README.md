@@ -1,5 +1,5 @@
 # thisara_tea_factory<br/>
-A project we did to a Tea Factory in Ambalangoda, Sri Lanka<br/>
+A project done to a Tea Factory in Ambalangoda, Sri Lanka<br/>
 
 *Use SQL files in Database folder to create database.<br/>
 	Data - Demo values only<br/>
